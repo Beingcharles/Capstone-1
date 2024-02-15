@@ -33,8 +33,29 @@ Various tools and methods were employed for the analysis, with key calculations 
 - Cumulative Sales: Cumulative_sales is a calculated metric representing the total sum of sales over a specified period.
 - Target: The Target is determined by adding 10% of Walmart's total sales to the original sales figure, providing a benchmark for performance evaluation.
 - Turnover Ratio: The Turnover Ratio is computed as the ratio of Total Sales to Average Inventory Value, offering insights into how efficiently inventory is being converted into sales.
+Tools utilized for analysis include Excel, Power BI, and DAX functions.
 
-Tools utilized for analysis include Excel, Power BI, and DAX functions. 
+Data Visualization Dashboard
+Data visualization is the representation of data in graphical or visual formats to
+facilitate understanding, analysis, and communication of information. It helps
+uncover patterns, trends, and insights that might not be immediately apparent in raw
+data. The following are the data Visualized through Power BI.
+
+KEY CHALLENGES & OPPORTUNITY
+1. Walmart operates in a highly competitive retail industry. It faces competition
+from traditional retailers, online retailers like Amazon, and discount stores.
+Sustaining its market position and profitability requires constantly adapting to
+changing consumer preferences and improving operational efficiency.
+2. Consumer behavior and preferences continually evolve, influenced by factors
+like technology, demographics, and social trends. Walmart must stay attuned to
+these changes to meet customer expectations effectively.
+3. Ensuring positive labor relations, attracting and retaining talented employees,
+and addressing concerns related to working conditions remain ongoing challenges
+for the company.
+4. Challenges include maintaining product quality, managing inventory efficiently,
+optimizing logistics, and ensuring reliable and timely delivery.
+5.Maintaining a positive public image and addressing these concerns is crucial for
+the company's long-term success
 
 In conclusion, the analysis of Walmart's sales data using POWER BI revealed valuable insights into the company's performance and identified areas for improvement.
 Positive outcomes were evident in the Profit analysis, indicating steady growth. 
